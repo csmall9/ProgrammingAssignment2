@@ -1,3 +1,5 @@
+
+## These functions were updated by Cynthia Small for programming assingment 2
 ## Put comments here that give an overall description of what your
 ## functions do
 
